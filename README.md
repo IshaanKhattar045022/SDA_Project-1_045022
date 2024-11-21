@@ -32,7 +32,7 @@ This dataset, sourced from the World Bank DataBank, provides a robust foundation
 
 **1.	Population Distribution by Country:**
 
-**_Objective_**_
+**_Objective_**
 This chart showcases the population distribution across various South Asian countries, providing a clear view of how each nation contributes to the region's total population.
 
 **_Interpretation_**
@@ -92,7 +92,7 @@ The graph generally suggests a negative correlation: as GDP increases, the infan
 
 **8.	Regional Disparities in Health Outcomes:**
 
-**_Objective:**_   
+**_Objective:_**   
 This scatter plot is designed to depict the relationship between life expectancy at birth and infant mortality rates across various countries, aiming to highlight regional disparities in health outcomes.
 
 **_Interpretation:_**   
