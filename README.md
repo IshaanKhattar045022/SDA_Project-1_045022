@@ -23,6 +23,8 @@ Income and Poverty: This section features the Gini index (for income inequality)
 **_7. Digital and Technological Growth:_** Measures internet usage rates, research and development spending, and high-technology exports. These statistics indicate digital access, innovation, and technological progress.
 This dataset, sourced from the World Bank DataBank, provides a robust foundation for studying South Asia's socio-economic, environmental, and governance progress. By analyzing these diverse indicators, researchers and policymakers can gain a deeper understanding of the region’s development path and identify areas that need improvement.
 
+# DASHBOARD (MongoDB ATLAS) 
+
 ![SDA Project-1_045022 (1)](https://github.com/user-attachments/assets/66bd8124-29ca-4e84-a5f6-35796c06f1b9)
 
 
