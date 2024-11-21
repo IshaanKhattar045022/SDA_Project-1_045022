@@ -1,5 +1,19 @@
 # SDA_Project-1_045022
 
+# **ABOUT DATASET**
+This dataset provides a detailed view of South Asian countries' socio-economic, environmental, and governance metrics from 2000 to 2023. It compiles key indicators like GDP, unemployment, literacy rates, energy use, governance measures, and more to comprehensively analyze each country’s growth, stability, and development trends over the years. The data covers Bangladesh, Bhutan, India, Pakistan, Nepal, Sri Lanka, Afghanistan, and Maldives.
+
+**Key Indicators** 
+Economic Metrics: Includes GDP (total and per capita in USD), annual GDP growth rates, inflation, and foreign direct investment. These metrics offer insight into economic health, growth rate, and regional international investment trends.
+Employment and Trade: Tracks unemployment rates as a percentage of the labor force and trade (as a percentage of GDP), helping assess workforce stability and international commerce engagement.
+Income and Poverty: This section features the Gini index (for income inequality) and poverty headcount ratio at $2.15/day, showing income distribution and poverty levels. These indicators reveal disparities and poverty within each country.
+Population Statistics: Includes total population, annual population growth, and urban population percentage, capturing demographic trends and urbanization rates.
+Social Indicators: Covers literacy rates, school enrollment in primary education, life expectancy at birth, infant mortality rates, and access to electricity, basic water, and sanitation services. These data points help measure the population’s health, education levels, and access to essential services.
+Environmental and Energy Metrics: Tracks CO2 emissions, PM2.5 air pollution, renewable energy consumption, and forest area. This environmental data is crucial for analyzing air quality, sustainable energy use, and forest coverage trends.
+Governance Indicators: This category includes metrics such as corruption control, political stability, regulatory quality, rule of law, and voice and accountability. These indicators reflect each country’s governance quality and institutional stability.
+Digital and Technological Growth: Measures internet usage rates, research and development spending, and high-technology exports. These statistics indicate digital access, innovation, and technological progress.
+This dataset, sourced from the World Bank DataBank, provides a robust foundation for studying South Asia's socio-economic, environmental, and governance progress. By analyzing these diverse indicators, researchers and policymakers can gain a deeper understanding of the region’s development path and identify areas that need improvement.
+
 **Streaming Data Analytics (SDA-1) Individual Project Project-1
 Submitted By: Ishaan Khattar, Roll Number: 045022**
 
