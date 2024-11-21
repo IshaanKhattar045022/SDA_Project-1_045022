@@ -7,6 +7,7 @@
 This dataset provides a detailed view of South Asian countries' socio-economic, environmental, and governance metrics from 2000 to 2023. It compiles key indicators like GDP, unemployment, literacy rates, energy use, governance measures, and more to comprehensively analyze each country’s growth, stability, and development trends over the years. The data covers Bangladesh, Bhutan, India, Pakistan, Nepal, Sri Lanka, Afghanistan, and Maldives.
 
 **Key Indicators** 
+
 **_1. Economic Metrics:_** Includes GDP (total and per capita in USD), annual GDP growth rates, inflation, and foreign direct investment. These metrics offer insight into economic health, growth rate, and regional international investment trends.
 
 **_2. Employment and Trade_:** Tracks unemployment rates as a percentage of the labor force and trade (as a percentage of GDP), helping assess workforce stability and international commerce engagement.
