@@ -1,7 +1,8 @@
 # SDA_Project-1_045022
 
-# **Streaming Data Analytics (SDA-1) Individual Project Project-1
-# Submitted By: Ishaan Khattar, Roll Number: 045022**
+**Streaming Data Analytics (SDA-1) Individual Project Project-1
+ Submitted By: Ishaan Khattar, Roll Number: 045022**
+ 
 # **ABOUT DATASET**
 This dataset provides a detailed view of South Asian countries' socio-economic, environmental, and governance metrics from 2000 to 2023. It compiles key indicators like GDP, unemployment, literacy rates, energy use, governance measures, and more to comprehensively analyze each country’s growth, stability, and development trends over the years. The data covers Bangladesh, Bhutan, India, Pakistan, Nepal, Sri Lanka, Afghanistan, and Maldives.
 
@@ -21,6 +22,8 @@ Income and Poverty: This section features the Gini index (for income inequality)
 
 **_7. Digital and Technological Growth:_** Measures internet usage rates, research and development spending, and high-technology exports. These statistics indicate digital access, innovation, and technological progress.
 This dataset, sourced from the World Bank DataBank, provides a robust foundation for studying South Asia's socio-economic, environmental, and governance progress. By analyzing these diverse indicators, researchers and policymakers can gain a deeper understanding of the region’s development path and identify areas that need improvement.
+
+![SDA Project-1_045022 (1)](https://github.com/user-attachments/assets/66bd8124-29ca-4e84-a5f6-35796c06f1b9)
 
 
 # OBJECTIVES AND INFERENCES
