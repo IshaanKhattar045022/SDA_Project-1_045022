@@ -35,19 +35,19 @@ This dataset, sourced from the World Bank DataBank, provides a robust foundation
 **1.	Population Distribution by Country:**
 
 **_Objective_**
-This chart showcases the population distribution across various South Asian countries, providing a clear view of how each nation contributes to the region's total population.
+This chart showcases the population distribution across various South Asian countries, clearly showing how each nation contributes to the region's total population.
 
 **_Interpretation_**
-The chart highlights India's overwhelming dominance in the region's population, with Pakistan and Bangladesh contributing significantly smaller shares. Meanwhile, countries like Afghanistan, Nepal, Sri Lanka, Bhutan, and Maldives have minimal representation, showcasing the stark disparity in population sizes within South Asia. This visualization emphasizes the demographic weight of India compared to its neighbors, offering insights into regional dynamics that could influence policies, resource allocation, and development planning.
+The chart highlights India's dominance in the region's population—India has the highest population, with Pakistan and Bangladesh contributing significantly smaller shares. Meanwhile, countries like Afghanistan, Nepal, Sri Lanka, Bhutan, and the Maldives have minimal representation, showcasing the stark disparity in population sizes within South Asia. This visualization emphasizes India's demographic weight compared to its neighbors, offering insights into regional dynamics that could influence policies, resource allocation, and development planning.
 
 
 **2.	Mortality Rate Over the Years:**
 
  **_Objective:_** 
-This graph presents the changes in infant mortality rates (measured as deaths per 1,000 live births) over consecutive five-year intervals from 2000 to 2025. It aims to provide a clear visual representation of the progress made in reducing infant mortality over the years, highlighting the effectiveness of public health initiatives and policies.  
+This graph presents the changes in infant mortality rates (measured as deaths per 1,000 live births) over consecutive five-year intervals from 2000 to 2025. It aims to provide a clear visual representation of the progress in reducing infant mortality, highlighting the effectiveness of public health initiatives and policies.  
 
 **_Interpretation:_**
-The graph indicates a steady and significant decline in infant mortality rates across the observed periods. This downward trend suggests substantial improvements in healthcare services, including better access to prenatal and postnatal care, advancements in medical technology, enhanced nutrition, and improvements in hygiene and living conditions. The reduction underscores the success of targeted efforts to improve child health outcomes globally.
+The graph indicates a steady and significant decline in infant mortality rates across the observed periods. This downward trend demands substantial improvements in health services and facilities for all countries. The reduction underscores the success of targeted efforts to improve child health outcomes globally.
 
 
 **3.	GDP Distribution by Country:**
@@ -56,7 +56,7 @@ The graph indicates a steady and significant decline in infant mortality rates a
 This graph visualizes the GDP distribution across various countries in South Asia and parts of Southeast Asia, using a heatmap-style color scale to indicate economic output. The map highlights which countries have the highest and lowest GDP regarding current US dollars.
 
 **_Interpretation:_**
-The map uses a color gradient, where darker shades represent higher GDP levels. For instance, India, shown in darker blue and green shades, indicates a significant economic presence compared to its neighbors. In contrast, countries like Sri Lanka are shaded in dark blue, reflecting lower GDP figures relative to India and surrounding nations. Overall, this visual representation emphasizes economic disparities in the region, illustrating how wealth is distributed unevenly across neighboring countries.
+The map uses gradient colors, where darker shades represent higher GDP levels. For instance, India, shown in darker blue and green shades, indicates a significant economic presence compared to its neighbors. In contrast, countries like Sri Lanka are shaded in dark blue, reflecting lower GDP figures relative to India and surrounding nations. Overall, this visual representation emphasizes economic disparities in the region, illustrating how wealth is distributed unevenly across neighboring countries.
 
 **4.	Mortality Trends by Region:**
 
